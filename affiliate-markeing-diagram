@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T14:53:48.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="aNhD3ie1_l7HiTDkUjHb" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-16T21:14:03.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lZsSXBT_-gNXnZsJ288_" version="21.6.2" type="github" pages="2">
   <diagram name="Page-1" id="1nqu1_S_9Vs3Og7ekoR-">
     <mxGraphModel dx="1373" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -79,26 +79,11 @@
         <mxCell id="vpUx0WN0W85IpHujy3WM-24" value="Affiliate Company&lt;br&gt;or Program" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="vpUx0WN0W85IpHujy3WM-25" value="Bob" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="520" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vpUx0WN0W85IpHujy3WM-27" value="You" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vpUx0WN0W85IpHujy3WM-30" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.book;" vertex="1" parent="1">
-          <mxGeometry x="720" y="530" width="30" height="25.5" as="geometry" />
-        </mxCell>
-        <mxCell id="vpUx0WN0W85IpHujy3WM-32" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon36;" vertex="1" parent="1">
-          <mxGeometry x="140" y="522.75" width="20" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vpUx0WN0W85IpHujy3WM-33" value="Bob" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="110" width="40" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Example" id="iYxSHb0wUwALOJqGxsyF">
-    <mxGraphModel dx="1647" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="941" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="dcUwqnPdE1opwqDDKc-F-0" />
         <mxCell id="dcUwqnPdE1opwqDDKc-F-1" parent="dcUwqnPdE1opwqDDKc-F-0" />
@@ -183,14 +168,42 @@
         <mxCell id="dcUwqnPdE1opwqDDKc-F-22" value="You" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
           <mxGeometry x="160" y="520" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dcUwqnPdE1opwqDDKc-F-23" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.book;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+        <mxCell id="dcUwqnPdE1opwqDDKc-F-23" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000000;shadow=0;dashed=0;shape=mxgraph.ios7.icons.book;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
           <mxGeometry x="720" y="530" width="30" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="dcUwqnPdE1opwqDDKc-F-24" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.iot_things_icons.icon36;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
           <mxGeometry x="140" y="522.75" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dcUwqnPdE1opwqDDKc-F-25" value="Bob" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
-          <mxGeometry x="680" y="110" width="40" height="80" as="geometry" />
+          <mxGeometry x="680" y="120" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qgcSsIcXpwUEFzh0cPPi-1" value="Commission" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=28;endSize=5.954285714285715;" edge="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="559.71" as="sourcePoint" />
+            <mxPoint x="220" y="559.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="559.71" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qgcSsIcXpwUEFzh0cPPi-2" value="Product/Service" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=26.285714285714285;endSize=7.422857142857143;" edge="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="559.58" as="sourcePoint" />
+            <mxPoint x="660" y="559.58" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="559.58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qgcSsIcXpwUEFzh0cPPi-3" value="Bob" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+          <mxGeometry x="680" y="320" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qgcSsIcXpwUEFzh0cPPi-4" value="Value" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22.5;endSize=7.466666666666668;" edge="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="359.58" as="sourcePoint" />
+            <mxPoint x="660" y="360" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
