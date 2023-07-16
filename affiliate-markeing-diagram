@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T21:14:03.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lZsSXBT_-gNXnZsJ288_" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-16T21:33:43.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KTU8mm8jXQPzkJ_nfVvr" version="21.6.2" type="github" pages="2">
   <diagram name="Page-1" id="1nqu1_S_9Vs3Og7ekoR-">
     <mxGraphModel dx="1373" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -200,10 +200,23 @@
         </mxCell>
         <mxCell id="qgcSsIcXpwUEFzh0cPPi-4" value="Value" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22.5;endSize=7.466666666666668;" edge="1" parent="dcUwqnPdE1opwqDDKc-F-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="359.58" as="sourcePoint" />
-            <mxPoint x="660" y="360" as="targetPoint" />
+            <mxPoint x="560" y="340" as="sourcePoint" />
+            <mxPoint x="660" y="340.42" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4SVvo886UUnAdfgjWbST-1" value="I love sci-fi books!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+          <mxGeometry x="695" y="60" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4SVvo886UUnAdfgjWbST-2" value="Trust" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=22.5;endSize=7.466666666666668;" edge="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="399.43" as="sourcePoint" />
+            <mxPoint x="560" y="399.43" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4SVvo886UUnAdfgjWbST-3" value="Wow! I really want to read this book now!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+          <mxGeometry x="695" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
