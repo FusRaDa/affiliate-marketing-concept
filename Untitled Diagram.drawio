@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T21:13:56.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gIzVRveNT7aoq6klvKev" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-20T21:16:58.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jwi4BC_8CrraXnEcoIc_" version="21.6.2" type="github" pages="2">
   <diagram name="Page-1" id="1nqu1_S_9Vs3Og7ekoR-">
     <mxGraphModel dx="1647" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -218,13 +218,13 @@
         <mxCell id="4SVvo886UUnAdfgjWbST-3" value="Wow! I really want to read this book now!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="dcUwqnPdE1opwqDDKc-F-1" vertex="1">
           <mxGeometry x="695" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sc7OXCw2ZPrYec2YHjt0-0" value="10% Commission" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+        <mxCell id="sc7OXCw2ZPrYec2YHjt0-0" value="10% Commission" style="rounded=1;whiteSpace=wrap;html=1;" parent="dcUwqnPdE1opwqDDKc-F-1" vertex="1">
           <mxGeometry x="290" y="460" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sc7OXCw2ZPrYec2YHjt0-1" value="$15&lt;br&gt;Book" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+        <mxCell id="sc7OXCw2ZPrYec2YHjt0-1" value="$15&lt;br&gt;Book" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="dcUwqnPdE1opwqDDKc-F-1" vertex="1">
           <mxGeometry x="520" y="450" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sc7OXCw2ZPrYec2YHjt0-2" value="$1.50" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dcUwqnPdE1opwqDDKc-F-1">
+        <mxCell id="sc7OXCw2ZPrYec2YHjt0-2" value="$1.50" style="rhombus;whiteSpace=wrap;html=1;" parent="dcUwqnPdE1opwqDDKc-F-1" vertex="1">
           <mxGeometry x="125" y="470" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
